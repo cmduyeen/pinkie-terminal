@@ -1,0 +1,51 @@
+{
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+  "schemes": [
+    {
+      "name": "Pinkie",
+      "background": "#FFFDFD",
+      "foreground": "#453B43",
+      "selectionBackground": "#FFEFF6",
+      "cursorColor": "#D44B8B",
+      "black": "#453B43",
+      "red": "#C71D5F",
+      "green": "#2F9E88",
+      "yellow": "#FF7A59",
+      "blue": "#3B82F6",
+      "purple": "#D44B8B",
+      "cyan": "#6A5ACD",
+      "white": "#E8BDD6",
+      "brightBlack": "#8B6A7A",
+      "brightRed": "#B21F5F",
+      "brightGreen": "#38B29C",
+      "brightYellow": "#FFA38A",
+      "brightBlue": "#60A5FA",
+      "brightPurple": "#FF85BE",
+      "brightCyan": "#8F82EC",
+      "brightWhite": "#FFFFFF"
+    },
+    {
+      "name": "Pinkie Dark",
+      "background": "#1F1A1E",
+      "foreground": "#FFF0F6",
+      "selectionBackground": "#402636",
+      "cursorColor": "#FF85BE",
+      "black": "#3A3038",
+      "red": "#FF4B8B",
+      "green": "#3DD6B5",
+      "yellow": "#FFA07A",
+      "blue": "#60A5FA",
+      "purple": "#FF85BE",
+      "cyan": "#9D8CFF",
+      "white": "#F1D3E2",
+      "brightBlack": "#635460",
+      "brightRed": "#FF75A8",
+      "brightGreen": "#5FE8C9",
+      "brightYellow": "#FFBCA6",
+      "brightBlue": "#93C5FD",
+      "brightPurple": "#FFAED6",
+      "brightCyan": "#B6ABFF",
+      "brightWhite": "#FFFDFD"
+    }
+  ]
+}
