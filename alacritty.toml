@@ -1,0 +1,34 @@
+# Pinkie Theme for Alacritty
+# Inspired by Pinkie for Obsidian by JustDuyen
+
+[colors.primary]
+background = "#FFFDFD"
+foreground = "#453B43"
+
+[colors.cursor]
+text = "#FFFDFD"
+cursor = "#D44B8B"
+
+[colors.selection]
+text = "#453B43"
+background = "#FFEFF6"
+
+[colors.normal]
+black = "#453B43"
+red = "#C71D5F"
+green = "#2F9E88"
+yellow = "#FF7A59"
+blue = "#3B82F6"
+magenta = "#D44B8B"
+cyan = "#6A5ACD"
+white = "#E8BDD6"
+
+[colors.bright]
+black = "#8B6A7A"
+red = "#B21F5F"
+green = "#38B29C"
+yellow = "#FFA38A"
+blue = "#60A5FA"
+magenta = "#FF85BE"
+cyan = "#8F82EC"
+white = "#FFFFFF"
